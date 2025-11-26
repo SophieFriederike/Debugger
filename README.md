@@ -1,6 +1,6 @@
-Immunity Debugger
+Debugger
 =================
-This is a repository of Immunity Debugger releases
+This is a fork of the repository of Immunity Debugger releases
 
 
 Disclaimer
